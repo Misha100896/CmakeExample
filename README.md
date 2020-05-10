@@ -5,5 +5,5 @@
 ```bash
 $ mkdir build
 $ cd build
-$ rm -rf ./* && cmake ../ && make && ./CmakeExample
+$ cmake ../ && make && ./CmakeExample
 ```
